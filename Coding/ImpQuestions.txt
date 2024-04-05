@@ -1,0 +1,13 @@
+Q1. Max eleme in array
+
+Q2 Write a JavaScript function to check if a given string is a palindrome (reads the same forwards and backwards). 
+
+Q3. Write a JavaScript program to reverse a given string. 
+
+Q4. Write a JavaScript function that takes an array of numbers and returns a new array with only the even numbers.
+
+Q5  Implement a deep clone function in JavaScript that creates a copy of a nested object or array without any reference to the original. 
+
+Q6.  Write a function that determines if two strings are anagrams of each other  
+
+Q7. Write a function to check if a given string is a palindrome. 
